@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">ग्रामीण अनुप्रयोग</string>
     <string name="Googlemaps">गूगल नक़्शे</string>
     <string name="map">सैटेलाइट दृश्य</string>
     <string name="Temprature">तापमान</string>
     <string name="Humidity">नमी</string>
+    <string name="govt_grands">Govt. Grants</string>
+    <string name="Yard_price">यार्ड मूल्य</string>
+    <string name="heading">ग्रामीण डिवलॉपमेंट</string>
+    <string name="elec">बिजली</string>
+    <string name="govt_site">सरकारी साइट</string>
+    <string name="govt_pro">सरकारी कार्यक्रम</string>
     <string name="Pressure">दबाव</string>
     <string name="Weather">मौसम</string>
     <string name="date">दिनांक</string>

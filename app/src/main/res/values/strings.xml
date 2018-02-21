@@ -1,13 +1,23 @@
 <resources>
-    <string name="app_name">Googlemaps</string>
+    <string name="app_name">RuralApp</string>
     <string name="map">Satellite View</string>
     <string name="Temprature">Temprature</string>
     <string name="Humidity">Humidity</string>
     <string name="Pressure">Pressure</string>
+    <string name="heading">RURAL DEVLOPMENT</string>
+    <string name="govt_grands">Govt. Grant</string>
+    <string name="elec">Electricity</string>
+    <string name="govt_site">Govt. Site</string>
+    <string name="Yard_price">Yard Price</string>
+    <string name="govt_pro">Govt. Programme</string>
     <string name="Weather">Weather</string>
     <string name="date">Date</string>
     <string name="cityname">City Name</string>
     <string name="title_for_weather">CURRENT-LOCATION WEATHER CONDITION</string>
     <string name="Discription">Discription</string>
     <string name="google_maps_API_key">AIzaSyDXNhkz2zvlpXZBHksxj6b20NP4NUPTApE</string>
+
+    <color name="grey">#d3d3d3</color>
+    <color name="red">#ff0000</color>
+    <string name="spinner_title">Select Category</string>
 </resources>
